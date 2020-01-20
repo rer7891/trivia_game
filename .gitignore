@@ -9,6 +9,7 @@
 
 /.resultset.json
 /.simplecove
+coverage
 
 # Ignore all logfiles and tempfiles.
 /log/*
