@@ -7,6 +7,8 @@
 # Ignore bundler config.
 /.bundle
 
+/.resultset.json
+
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
