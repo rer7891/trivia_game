@@ -8,6 +8,7 @@
 /.bundle
 
 /.resultset.json
+/.simplecove
 
 # Ignore all logfiles and tempfiles.
 /log/*
